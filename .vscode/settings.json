@@ -5,4 +5,7 @@
       "source.fixAll.eslint": true,
       "source.addMissingImports": true
     },
+    "[prisma]": {
+      "editor.formatOnSave": true
+    }
   }
